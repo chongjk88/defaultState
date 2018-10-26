@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Auto Default State
-// @version      0.2
+// @version      0.3
 // @author       jk
 // @include      http://websites.cobalt.com/wsm/route/base-view/contentEditor*
 // @include      https://websites.cobalt.com/wsm/route/base-view/contentEditor*
